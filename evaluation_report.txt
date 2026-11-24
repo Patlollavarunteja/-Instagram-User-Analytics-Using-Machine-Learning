@@ -1,0 +1,46 @@
+================================================================
+MODEL EVALUATION REPORT: Instagram User Analytics Using Machine Learning
+================================================================
+
+Evaluation Overview:
+The machine learning model was evaluated using unseen test data after completing training on the processed dataset.
+
+Evaluation Method:
+- Train-Test Split
+- Actual vs Predicted Comparison
+- Scatter Plot Visualization
+
+Model Used:
+- Gradient Boosting Regressor
+
+Input Features:
+- Followers
+- Time Since Posted
+
+Output Variable:
+- Likes
+
+Performance Analysis:
+The model demonstrates the ability to learn engagement patterns from historical Instagram data.
+
+Key Findings:
+- Positive relationship observed between followers and likes.
+- Post timing influences engagement levels.
+- Prediction trends remain consistent across different follower counts.
+
+Generated Outputs:
+- Prediction Graph
+- Regression Analysis
+- Caption Word Cloud
+- Hashtag Word Cloud
+- Likes Progression Graph
+
+Benefits:
+- Social Media Analytics
+- Engagement Prediction
+- Content Performance Analysis
+- Marketing Insights
+
+Final Assessment:
+The model successfully performs Instagram engagement prediction and provides meaningful analytical insights.
+================================================================
