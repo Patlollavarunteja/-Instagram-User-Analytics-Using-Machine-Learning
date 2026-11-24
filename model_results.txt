@@ -1,0 +1,39 @@
+================================================================
+MODEL RESULTS: Instagram User Analytics Using Machine Learning
+================================================================
+
+Algorithm:
+- Gradient Boosting Regressor
+
+Input Features:
+1. Followers
+2. Time Since Posted
+
+Target Variable:
+- Likes
+
+Data Split:
+- Training Data: 90%
+- Testing Data: 10%
+
+Preprocessing Steps:
+- Missing Value Imputation
+- Time Conversion
+- Feature Scaling
+
+Model Capabilities:
+- Predict Instagram likes
+- Analyze engagement trends
+- Generate forecasted engagement values
+
+Prediction Scenarios:
+- Followers: 100   | Result: Predicted likes generated successfully.
+- Followers: 200   | Result: Predicted likes generated successfully.
+- Followers: 1000  | Result: Predicted likes generated successfully.
+
+Status:
+Model trained and evaluated successfully.
+
+Conclusion:
+The Gradient Boosting Regressor successfully predicts Instagram engagement based on follower count and posting time.
+================================================================
